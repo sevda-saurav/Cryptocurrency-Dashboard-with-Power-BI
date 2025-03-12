@@ -32,4 +32,4 @@ The dataset consists of historical cryptocurrency prices, market capitalization,
 
 ## 🔗 Connect with Me
 Feel free to connect and discuss this project!  
-💼 LinkedIn: [Your LinkedIn Profile Here]
+💼 LinkedIn: https://www.linkedin.com/in/saurav-sevda-2288a4244/
